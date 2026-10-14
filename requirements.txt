@@ -1,0 +1,3 @@
+# Recommended course environment: Python 3.12
+streamlit<=1.50.0
+pandas<=2.2.3 
